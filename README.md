@@ -17,7 +17,7 @@ Skills: R / Tableau / EViews / STATA / MATLAB
 - 📫 How to reach me: giorgio.cmorales@gmail.com 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg/RED' alt='github' height='40'>](https://github.com/gcmorales)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/www.linkedin.com/in/giorgiocmorales/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/tableau.svg' alt='tableau' height='40'>](https://public.tableau.com/app/profile/giorgio.cunto.morales)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/gcmorales)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/www.linkedin.com/in/giorgiocmorales/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/tableau.svg' alt='tableau' height='40'>](https://public.tableau.com/app/profile/giorgio.cunto.morales)  
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gcmorales)](https://github.com/anuraghazra/github-readme-stats)
 
