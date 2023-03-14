@@ -1,7 +1,7 @@
 ![Economist & Data Scientist](https://media.licdn.com/dms/image/C4E16AQF_uNHx8SYDMw/profile-displaybackgroundimage-shrink_350_1400/0/1587075504995?e=1684368000&v=beta&t=rRqrByTiAOH64wjsBKJZ-99rPQ9YEElrgfHl6n_aLD8)
 
-### Hi there 👋, I am Giorgio Cunto Morales
-#### Economist & Data Scientist
+# Hi there 👋, I am Giorgio Cunto Morales
+### Economist & Data Scientist
 
 I am Economist and self-taught Data Scientist with a specialization in macroeconomic and financial analysis, as well as data visualization, with research experience in the consulting and media industries. I also have teaching experience in university-level Statistics. Currently interested in quantitative finance and network analysis.
 
