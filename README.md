@@ -11,7 +11,7 @@ Skills: R / Tableau / EViews / STATA / MATLAB
 
 - 🔭 I’m currently working on assembling a DS portfolio 
 - 🌱 I’m currently learning SQL & Python 
-- 👯 I’m looking to collaborate on Econometric packages 
+- 👯 I’m looking to collaborate on Financial Network Analysis
 - 🤔 I’m looking for help with Translating MATLAB into R 
 - 💬 Ask me about Financial Economics 
 - 📫 How to reach me: giorgio.cmorales@gmail.com 
