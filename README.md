@@ -1,5 +1,3 @@
-![Economist & Data Scientist](https://media.licdn.com/dms/image/C4E16AQF_uNHx8SYDMw/profile-displaybackgroundimage-shrink_350_1400/0/1587075504995?e=1684368000&v=beta&t=rRqrByTiAOH64wjsBKJZ-99rPQ9YEElrgfHl6n_aLD8)
-
 # Hi there 👋, I am Giorgio Cunto Morales
 ### Economist & Data Scientist
 
