@@ -1,13 +1,13 @@
 # Hi there 👋, I am Giorgio Cunto Morales
 ### Economist & Data Scientist
 
-I am an Economist and self-taught Data Scientist with a specialization in macroeconomic and financial analysis, as well as data visualization, with research experience in the consulting and media industries. I also have teaching experience in university-level Statistics. Currently interested in quantitative finance and network analysis.
+I am an Economist and self-taught Data Scientist with a specialization in macroeconomic and financial analysis, as well as data visualization, with research experience in the consulting and media industries. I also have teaching experience in university-level Statistics and high school-level World Histoy. Currently interested in quantitative finance and network analysis.
 
-- 🌍 I'm currently based in London, UK
+- 🌍 I'm currently based in Caracas, Venezuela
 - 🔭 I’m currently working on assembling a decent DS portfolio 
 - 🧠 I’m currently learning SQL & Python 
 - 🤝 I’m looking to collaborate on Financial Network Analysis
-- 🤔 I’m looking for help with Translating MATLAB into R 
+- 🤔 I’m looking for help with Translating MATLAB packages into R 
 - 💬 Ask me about Financial Economics 
 - ✉️ You can contact me at giorgio.cmorales@gmail.com 
 
