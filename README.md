@@ -1,4 +1,4 @@
-# Hi there 👋, I am Giorgio Cunto Morales
+# Hi there 🖖, I am Giorgio Cunto Morales
 ### Economist & Data Scientist
 ##
 <p align = "center">
@@ -66,11 +66,14 @@ I am an Economist and self-taught Data Scientist with a specialization in macroe
   &nbsp; &nbsp; &nbsp; &nbsp;
 </p>
 
-
-
 ## 🌐 Sites and Links:
 
-[<img src='[https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png)' alt='github' height='40'>](https://github.com/gcmorales)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/www.linkedin.com/in/giorgiocmorales/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/tableau.svg' alt='tableau' height='40'>](https://public.tableau.com/app/profile/giorgio.cunto.morales)  
+[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/giorgiocmorales)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/giorgiocmorales/)
+[![Tableau Public](https://img.shields.io/badge/Tableau_Public-E97627?style=for-the-badge&logo=tableau&logoColor=white)](https://public.tableau.com/app/profile/giorgio.cunto.morales)
+[![DataCamp](https://img.shields.io/badge/DataCamp-03EF62?style=for-the-badge&logo=datacamp&logoColor=white)](https://www.datacamp.com/portfolio/giorgiocmorales)
+[![edX](https://img.shields.io/badge/edX-002F9F?style=for-the-badge&logo=edx&logoColor=white)](https://profile.edx.org/u/George_The_Sage)
+[![Prodavinci](https://img.shields.io/badge/Prodavinci-FF5733?style=for-the-badge)](https://www.prodavinci.com/)
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=giorgiocmorales&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 ---
