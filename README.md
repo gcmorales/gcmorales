@@ -1,11 +1,10 @@
 # Hi there 🖖, I am Giorgio Cunto Morales
-### Economist & Data Scientist
-##
 <p align = "center">
   <img src = "https://github.com/giorgiocmorales/giorgiocmorales/blob/main/math_background.jpg?raw=true" alt = "Banner">
 </p>
 
-##
+### Economist and Data Scientist
+
 I am an Economist and self-taught Data Scientist with a specialization in macroeconomic and financial analysis, as well as data visualization, with research experience in the consulting and media industries. I also have teaching experience in university-level Statistics and high school-level World Histoy. Currently interested in quantitative finance and network analysis.
 
 - 🌍 I'm currently based in **Caracas, Venezuela**
