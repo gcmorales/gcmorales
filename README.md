@@ -21,29 +21,52 @@ I am an Economist and self-taught Data Scientist with a specialization in macroe
 <p align="center">
   <!-- R -->
   <a href="https://www.r-project.org/" target="_blank">
-    <img src="https://profilinator.rishav.dev/skills-assets/r.svg" alt="R" height="40" style="margin: 40px;">
+    <img src="https://profilinator.rishav.dev/skills-assets/r.svg" alt="R" height="40">
   </a>
+  &nbsp; &nbsp; &nbsp; &nbsp;
   <!-- RStudio -->
   <a href="https://posit.co/products/open-source/rstudio/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-original.svg" alt="RStudio" height="40" style="margin: 40px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-original.svg" alt="RStudio" height="40">
   </a>
+  &nbsp; &nbsp; &nbsp; &nbsp;
   <!-- Tableau -->
   <a href="https://www.tableau.com/" target="_blank">
-    <img src="https://profilinator.rishav.dev/skills-assets/tableau.svg" alt="Tableau" height="40" style="margin: 40px;">
+    <img src="https://profilinator.rishav.dev/skills-assets/tableau.svg" alt="Tableau" height="40">
   </a>
+  &nbsp; &nbsp; &nbsp; &nbsp;
   <!-- Git Bash -->
   <a href="https://git-scm.com/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git Bash" height="40" style="margin: 40px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git Bash" height="40">
   </a>
+  &nbsp; &nbsp; &nbsp; &nbsp;
   <!-- SQL -->
   <a href="https://www.mysql.com/" target="_blank">
-    <img src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="SQL" height="40" style="margin: 40px;">
+    <img src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="SQL" height="40">
   </a>
+  &nbsp; &nbsp; &nbsp; &nbsp;
   <!-- Python -->
   <a href="https://www.python.org/" target="_blank">
-    <img src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="40" style="margin: 40px;">
+    <img src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="40">
   </a>
+  &nbsp; &nbsp; &nbsp; &nbsp;
+  <!-- Microsoft Office -->
+  <a href="https://www.microsoft.com/en-us/microsoft-365" target="_blank">
+    <img src="https://img.icons8.com/fluency/48/000000/microsoft-office-2019.png" alt="Microsoft Office" height="40">
+  </a>
+  &nbsp; &nbsp; &nbsp; &nbsp;
+  <!-- STATA -->
+  <a href="https://www.stata.com/" target="_blank">
+    <img src="https://www.svgrepo.com/show/374098/stata.svg" alt="STATA" height="40">
+  </a>
+  &nbsp; &nbsp; &nbsp; &nbsp;
+  <!-- MATLAB -->
+  <a href="https://www.mathworks.com/products/matlab.html" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="MATLAB" height="40">
+  </a>
+  &nbsp; &nbsp; &nbsp; &nbsp;
 </p>
+
+
 
 ## 🌐 Sites and Links:
 
